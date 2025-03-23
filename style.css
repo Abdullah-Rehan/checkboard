@@ -1,0 +1,14 @@
+.main{
+    display: inline-block;
+}
+.red{
+    width: 100px;
+    height: 100px;
+    background-color: red;
+}
+
+.black{
+    width: 100px;
+    height: 100px;
+    background-color: black;
+}
